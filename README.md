@@ -9,7 +9,7 @@ Version | Download <br/>
 0.5 | [Link](downloads/saintDotCom-v0p5.apk)<br/>
 
 ### Changelog
-###### 0.4
+###### 0.5
 - Fix auto update
 ###### 0.4
 - Fix appearance of messages
